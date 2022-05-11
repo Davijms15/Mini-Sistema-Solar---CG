@@ -1,4 +1,4 @@
-# Computacao-Grafica
 
-Rodar projeto:
+
+Como compilar:
         g++ main.cpp -o a -Wall -lglfw -lm -lGL -lGLU -lSOIL
